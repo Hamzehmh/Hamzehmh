@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new project and launch startup
 - 📫 How to reach me "hamzeh.mh61@gmail.com"
 - 😄 Pronouns: None
-- ⚡ Fun fact: i am very eager learning new thing
+- ⚡ Fun fact: I am very eager learning new thing
 
 <!---
 Hamzehmh/Hamzehmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
