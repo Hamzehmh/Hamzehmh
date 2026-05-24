@@ -1,5 +1,5 @@
 - 👋 Hi, I’m "Hamzeh Mohammad Hosseini" @Hamzehmh
-- 👀 I'm interested in learning python
+- 👀 I'm interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new project and launch startup
 - 📫 How to reach me "hamzeh.mh61@gmail.com"
